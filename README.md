@@ -20,10 +20,16 @@ Students often forget their ID cards or homework. EduBand is easy to wear, styli
 - School website updates
 
 ## How it Works
-(Here, add your ideas—will it connect with an app? What tech could it use—Bluetooth, RFID, etc.?)
+The EduBand will connect with a mobile app using Bluetooth.
+
+The band has a built-in display to show reminders sent from the app or school website.
+Students will scan their EduBand when entering or leaving school using an RFID scanner at the gate.
+The app will sync with the school timetable and send reminders.
+The band will vibrate for water/alarm reminders.
+
 
 ## Project Team
-- You! (Add more people as you work with friends or online)
+Just me
 
 ## Want to help?
 Suggest ideas, fix typos, or share your own experiences!
